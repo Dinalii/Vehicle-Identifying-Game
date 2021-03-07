@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MAD_CW</string>
+    <string name="open_new_activity">Open new Activity!</string>
+    <string name="welcome_to_new_activity">Welcome to New Activity</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="todo">TODO</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+
+    <string name="logo_2">logo_2</string>
+    <string name="button_label_identify">Identify</string>
+    <string name="random_dog_image_description">random_dog_image_description</string>
+    <string name="background">background</string>
+    <string name="back_drop_of_paw">back_drop_of_paw</string>
+    <string name="next_button_label">next_button_label</string>
+    <string name="choose_the_dog_instruction">choose_the_dog_instruction</string>
+    <string name="image_of_first_dog_description">image_of_first_dog_description</string>
+    <string name="image_of_second_dog_description">image_of_second_dog_description</string>
+    <string name="image_of_third_dog_description">image_of_third_dog_description</string>
+    <string name="button_label_submit">button_label_submit</string>
+    <string name="random_car_image_description">random_car_image_description</string>
+    <string name="identify">Identify</string>
+    <string name="instruction_label">Choose correct car type</string>
+    <string name="background_design">background_image</string>
+    <string name="next_buttob_label">NEXT</string>
+    <string name="carImage_instructions">Choose the correct image of given type of car</string>
+    <string name="random_car_image">random_car_image</string>
+
+    <string name="hint_letters_textview">hint letters textview</string>
+
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="image_1_description">image 1 description</string>
+    <string name="image_2_sescription">image 2 sescription</string>
+
+    <string name="random_image_description">random image description</string>
+
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="countdown">Countdown</string>
+    <string name="logo_image">logo_image</string>
+
+    <string-array name="carMake_array">
+        <item>Audi</item>
+        <item>Benz</item>
+        <item>BMW</item>
+        <item>Honda</item>
+        <item>KIA</item>
+        <item>Lexus</item>
+        <item>Mazda</item>
+        <item>Skoda</item>
+        <item>Subaru</item>
+        <item>Toyota</item>
+        <item>Volvo</item>
+    </string-array>
+</resources>
