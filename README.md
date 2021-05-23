@@ -24,8 +24,10 @@ All the populated images are picked randomly from the image array and remove the
 │       ├── main
 │       │   ├── AndroidManifest.xml
 │       │   ├── java
-│       │   │   └── com
-│       │   │       └── example
+│       │   │   └── com.example.mad_cw
+│       │   │       └── Adapter
+├── MainActivity.java
+│       │   │               └── utils
 │       │   │           └── nimendra
 │       │   │               ├── AdvancedActivity.java
 │       │   │               ├── CarHintActivity.java
