@@ -25,27 +25,23 @@ All the populated images are picked randomly from the image array and remove the
 │       │   ├── AndroidManifest.xml
 │       │   ├── java
 │       │   │   └── com.example.mad_cw
-│       │   │       └── Adapter
-├── MainActivity.java
-│       │   │               └── utils
-│       │   │           └── nimendra
-│       │   │               ├── AdvancedActivity.java
-│       │   │               ├── CarHintActivity.java
-│       │   │               ├── CarImageActivity.java
-│       │   │               ├── CarMakeActivity.java
-│       │   │               ├── MainActivity.java
-│       │   │               └── utils
-│       │   │                   ├── ImageLoader.java
-│       │   │                   ├── PopulateData.java
-│       │   │                   ├── Styles.java
-│       │   │                   └── ValidateImages.java
+│       │   │       ├──  Adapter
+|       |   |       |     ├── GridViewAnswerAdapter
+│       │   │       |     └── GridViewSuggestAdapter
+│       │   │       ├──Common
+|       |   |       |     └──Common
+│       │   │       ├── AdvancedActivity.java
+│       │   │       ├── HintsActivity.java
+│       │   │       ├── IdentifyCarImageActivity.java
+│       │   │       ├── IdentifyCarMakeActivity.java
+│       │   │       └── MainActivity.java
+│       │   │               
 │       │   └── res
 │       │       ├── drawable
+│       │       ├── layout
+│       │       ├── mipmap
 │       │       └── values
-│       │           ├── colors.xml
-│       │           ├── dimen.xml
-│       │           ├── strings.xml
-│       │           └── styles.xml
+│       │          
 │       └── test
 ├── build.gradle
 ├── gradle
